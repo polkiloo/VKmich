@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>../icons_for_player/audio_volume.png</file>
+        <file>../icons_for_player/audio-off.png</file>
+        <file>../icons_for_player/first-track.png</file>
+        <file>../icons_for_player/last-track.png</file>
+        <file>../icons_for_player/pause.png</file>
+        <file>../icons_for_player/play.png</file>
+        <file>../icons_for_player/rewind.png</file>
+        <file>../icons_for_player/shuffle.png</file>
+        <file>../icons_for_player/stop.png</file>
+        <file>../icons_for_player/forward.png</file>
+    </qresource>
+</RCC>
